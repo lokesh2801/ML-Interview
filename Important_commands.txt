@@ -1,0 +1,3 @@
+ommands to create a new venv:
+1. python3 -m venv ml_algo
+2. ource ml_algo/bin/activate
